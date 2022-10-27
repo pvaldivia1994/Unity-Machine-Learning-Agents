@@ -16,3 +16,6 @@ Para el uso del mismo es necesario tener instalado:
 Descargar el archivo basic.yaml de la carpeta ML_Brain y en la ruta del mismo ejecutar el siguiente comando:
 
 - mlagents-learn ./basic.yaml --run-id npc01
+- Esperar que la consola diga que debe darle a play en Unity 
+- Darle a play en Unity
+- Despues de que entrene para ver los resultados ejecutar el comando: tensorboard --logdir results
