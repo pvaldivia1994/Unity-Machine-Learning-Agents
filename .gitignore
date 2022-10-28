@@ -10,6 +10,11 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+# Se ignora los Asset del store
+/Assets/PolygonDungeon/
+/Assets/PolygonStarter/
+/Assets/StarterAssets/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
